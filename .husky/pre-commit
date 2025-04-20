@@ -1,3 +1,1 @@
-cd front || exit
-
 npm run lint
